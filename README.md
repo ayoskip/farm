@@ -1,15 +1,16 @@
-# My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+# FARM PROJECT
+Clone or download file and open with text editor. Click on animals, they move and make sounds.
 
 **Link to project: https://codepen.io/Ayo_Skip/pen/xPZbmp
 
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScriptre you can really show off your passion and make up for that ten fold.
+
+**Tech used:** HTML, CSS, JavaScript
 
 ## Lessons Learned:
-How to make objects move on click with sound
+I learned how to make elements move on click with a specific sound. 
 
 
 
