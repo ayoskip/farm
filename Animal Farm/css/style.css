@@ -37,10 +37,10 @@ body {
      line-height: 1.4;
      font-family: Helvetica, Arial, sans-serif;
      background: url(https://wallpapercave.com/wp/qBsvoi3.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
 }
 
 
@@ -48,7 +48,6 @@ body {
 	width: 960px;
 	margin: auto;
 }
-
 
 
 footer {
